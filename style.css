@@ -1,17 +1,3 @@
-/* .text {
-    display: flex;
-    position: fixed;
-    justify-content: center;
-    width: 100%;
-    top: 100px;
-    font-style: normal;
-    font-size: 75px;
-    color: blanchedalmond;
-    font-family: 'Courier New', Courier, monospace;
-    animation-name: text-size;
-    animation-duration: 1s;
-    animation-iteration-count: infinite;
-} */
 
 .background {
     position: fixed;
